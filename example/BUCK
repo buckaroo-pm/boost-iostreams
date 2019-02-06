@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'boost-back-inserter',
+  srcs = [
+    'boost_back_inserter_example.cpp',
+  ],
+  deps = [
+    '//:iostreams',
+  ],
+)
