@@ -1,0 +1,46 @@
+targets = [ "//:iostreams" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.47.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/madler-zlib"
+version = "*"
+
