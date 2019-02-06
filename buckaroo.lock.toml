@@ -1,0 +1,125 @@
+manifest = "e58651bf1a0dbeba9fb0ff0c2eade089abd1cecf6335e632052d28f2190af2a5"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+target = "//:assert"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+target = "//:config"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+target = "//:core"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+target = "//:detail"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+target = "//:integer"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+target = "//:mpl"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+target = "//:range"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+target = "//:smart-ptr"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+target = "//:throw-exception"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+target = "//:type-traits"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/madler-zlib"
+target = "//:zlib"
+
+[lock."github.com/buckaroo-pm/boost-align"]
+versions = [ "1.65.0" ]
+revision = "6e0bf2087c356384ae9c2145076ed289d1554f34"
+
+[lock."github.com/buckaroo-pm/boost-assert"]
+versions = [ "1.65.0" ]
+revision = "1d5ce9ce0739190b2fae9a8f1a55ae31fa607485"
+
+[lock."github.com/buckaroo-pm/boost-concept_check"]
+versions = [ "1.65.0" ]
+revision = "586c4129d965fa1cf4a413882421dcea9b991cd2"
+
+[lock."github.com/buckaroo-pm/boost-config"]
+versions = [ "1.65.0" ]
+revision = "a8c1c3e0efd70ae6dc85ec9d0b96c2ad8127c46a"
+
+[lock."github.com/buckaroo-pm/boost-core"]
+versions = [ "1.65.0" ]
+revision = "362fc21266254de477ae27e8b6075a4345cf3d9c"
+
+[lock."github.com/buckaroo-pm/boost-detail"]
+versions = [ "1.65.0" ]
+revision = "98eb34ec7067e6e9880afb24031621390aa1f05c"
+
+[lock."github.com/buckaroo-pm/boost-exception"]
+versions = [ "1.65.0" ]
+revision = "c71c2014d951afa0f3359db61233d0945af824bb"
+
+[lock."github.com/buckaroo-pm/boost-integer"]
+versions = [ "1.65.0" ]
+revision = "9dd0171491b204d9b8486dede77fc2da745a807a"
+
+[lock."github.com/buckaroo-pm/boost-iterator"]
+versions = [ "1.65.0" ]
+revision = "fdfb93b60fb0f59160de4b006ff6349f162b3a81"
+
+[lock."github.com/buckaroo-pm/boost-move"]
+versions = [ "1.65.0" ]
+revision = "d1d937e8390bc53a8b60f82e10140389a2482ca4"
+
+[lock."github.com/buckaroo-pm/boost-mpl"]
+versions = [ "1.65.0" ]
+revision = "08681b9d1d26e71ab9ec18fb995ed962334ad9a1"
+
+[lock."github.com/buckaroo-pm/boost-predef"]
+versions = [ "1.65.0" ]
+revision = "6c22e3a5105bda588b3dfd478c3bbe1164545cd8"
+
+[lock."github.com/buckaroo-pm/boost-preprocessor"]
+versions = [ "1.65.0" ]
+revision = "6b14825aef050d81982040a4612ad2026426e6ca"
+
+[lock."github.com/buckaroo-pm/boost-range"]
+versions = [ "1.65.0" ]
+revision = "d4f02c5d142a5b77567dcda6e02238385c9cbe41"
+
+[lock."github.com/buckaroo-pm/boost-smart_ptr"]
+versions = [ "1.65.0" ]
+revision = "7fdd2c99fc98715b9dc3d7cf46d94d3115a42255"
+
+[lock."github.com/buckaroo-pm/boost-static_assert"]
+versions = [ "1.65.0" ]
+revision = "592007332bd1502318716b7cd4d192e1e434c569"
+
+[lock."github.com/buckaroo-pm/boost-throw_exception"]
+versions = [ "1.65.0" ]
+revision = "e25baa01e9fd802de84b1aa85006d3ea89c12ed1"
+
+[lock."github.com/buckaroo-pm/boost-type_traits"]
+versions = [ "1.65.0" ]
+revision = "4545696652584a9315128784583a8b44a17b93bc"
+
+[lock."github.com/buckaroo-pm/boost-utility"]
+versions = [ "1.65.0" ]
+revision = "348d8acd7808490ad11cb4d2d6b17474a9a95133"
+
+[lock."github.com/buckaroo-pm/madler-zlib"]
+versions = [ "branch=master" ]
+revision = "f07b731f16d83c65fa032285dbc87c1bd181956d"
