@@ -1,4 +1,4 @@
-manifest = "46cf10d8fe87804b6813dd211f47ae59e174d839a03587665acc5ca9e132426d"
+manifest = "668e8af950888759f3b3cb1306f54a868d16e500986987995bbe8d055631feb4"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-assert"
@@ -121,5 +121,5 @@ versions = [ "branch=master" ]
 revision = "f04cf922658a7e03776631a96c3ad346ad179d5f"
 
 [lock."github.com/buckaroo-pm/madler-zlib"]
-versions = [ "branch=master" ]
-revision = "1f7335c126705550b9cd4e91d2d34835c49bc28e"
+versions = [ "1.0.1" ]
+revision = "58ef5ba6591f866cf24cb18a18c301daa9f5bb11"
